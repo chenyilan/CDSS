@@ -1,2 +1,2 @@
 # CDSS
-The code of "A Masked Cross-domain Self-supervised Framework for Photoacoustic Computed Tomography Reconstruction"
+The code of "Masked Cross-domain Self-supervised Deep Learning Framework for Photoacoustic Computed Tomography Reconstruction"
